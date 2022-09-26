@@ -26,23 +26,23 @@ A short but in-depth overview where the author speaks on the different features 
 
 Use your mouse cursor to hover over and expand the main menu pane.
 
-![Alt Text](https://media.giphy.com/media/RYmP7mQUfz1R1YQTEt/giphy.gif)
+![Project 1 gif](https://media.giphy.com/media/RYmP7mQUfz1R1YQTEt/giphy.gif)
 
 When you hover your mouse cursor over the menu options the recolor will let you know which option you are about to select.
 
-![Alt Text](https://media.giphy.com/media/RcHtFlizbKDfco3iht/giphy.gif)
+![Project 1 gif](https://media.giphy.com/media/RcHtFlizbKDfco3iht/giphy.gif)
 
 A countdown timer functionality that indicates how much time there is left till graduation has been implemented with Javascript.
 
-![Alt Text](https://media.giphy.com/media/GnljEt01lNj6nNeqTN/giphy.gif)
+![Project 1 gif](https://media.giphy.com/media/GnljEt01lNj6nNeqTN/giphy.gif)
 
 Navigate to the the about me page, once there you can view more about my hobbies and interest. You can click on the embedded Instagram content to view more details.
 
-![Alt Text](https://media.giphy.com/media/zwKQtuJaJoLkYtdCoX/giphy.gif)
+![Project 1 gif](https://media.giphy.com/media/zwKQtuJaJoLkYtdCoX/giphy.gif)
 
 You are able to access Elio Khouri's contact information from the main menu pane, you can access this pane from both pages on the site. 
 
-![Alt Text](https://media.giphy.com/media/uk5BR4hgvd7Ik82Ln8/giphy.gif)
+![Project 1 gif](https://media.giphy.com/media/uk5BR4hgvd7Ik82Ln8/giphy.gif)
 
 
 ## Contributing
