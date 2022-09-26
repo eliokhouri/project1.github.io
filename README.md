@@ -20,7 +20,7 @@ No installation required, simply click [here](https://eliokhouri.github.io/proje
 
 A short but in-depth overview where the author speaks on the different features of the website.
 
-[![Project 1 Overview Video](https://i9.ytimg.com/vi/s7zJm0FRHsQ/mqdefault.jpg?v=63316ec5&sqp=CMDdxZkG&rs=AOn4CLCDaQIErmLZKza05gYgJYmCJaGafA)](https://www.youtube.com/watch?v=s7zJm0FRHsQ)
+[![Project 1 Overview Video]()](https://www.youtube.com/watch?v=s7zJm0FRHsQ)
 
 ## Usage
 
