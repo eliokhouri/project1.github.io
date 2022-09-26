@@ -3,7 +3,7 @@
 ## Author
 Elio Khouri
 
-## Description / Objective
+## Objective
 My name is Elio Khouri and this is my first foray into front end web development...
 
 I decided to create a personal homepage that housed my resume, contact information, skills, education, hobbies and more, I tried to include anything that a potential recruiter would like to know about me.
