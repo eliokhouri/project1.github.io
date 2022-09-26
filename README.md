@@ -13,3 +13,4 @@ My first attempt at creating a webpage with HTML, CSS and JS
 ![Alt Text](https://media.giphy.com/media/uk5BR4hgvd7Ik82Ln8/giphy.gif)
 
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
