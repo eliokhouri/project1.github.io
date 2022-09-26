@@ -20,7 +20,7 @@ No installation required, simply click [here](https://eliokhouri.github.io/proje
 
 A short but in-depth overview where the author speaks on the different features of the website.
 
-<video src='https://www.youtube.com/watch?v=s7zJm0FRHsQ' width=180/>
+
 
 ## Usage
 
