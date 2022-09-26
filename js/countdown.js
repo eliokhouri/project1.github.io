@@ -1,3 +1,4 @@
+// Credit w3
 // Set the date we're counting down to
 var countDownDate = new Date("May 10, 2024 17:00:00").getTime();
 
