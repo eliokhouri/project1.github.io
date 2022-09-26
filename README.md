@@ -10,11 +10,17 @@ I decided to create a personal homepage that housed my resume, contact informati
 
 ## Course
 
-This project was created as a requirement for the course CS5610 taught by John Alexis Guerra Gómez, you can find out more about the class and the professor click [here](https://johnguerra.co).
+This project was created as a requirement for the course CS5610 taught by John Alexis Guerra Gómez, you can find out more about the class and the professor please click [here](https://johnguerra.co).
 
 ## Installation
 
 No installation required, simply click [here](https://eliokhouri.github.io/project1.github.io/) to visit the website.
+
+## Overview
+
+A short but in-depth overview where the author speaks on the different features of the website.
+
+<video src='https://www.youtube.com/watch?v=s7zJm0FRHsQ' width=180/>
 
 ## Usage
 
