@@ -20,7 +20,7 @@ No installation required, simply click [here](https://eliokhouri.github.io/proje
 
 A short but in-depth overview where the author speaks on the different features of the website.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=s7zJm0FRHsQ)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/s7zJm0FRHsQ/mqdefault.jpg?v=63316ec5&sqp=CMDdxZkG&rs=AOn4CLCDaQIErmLZKza05gYgJYmCJaGafA)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ## Usage
 
