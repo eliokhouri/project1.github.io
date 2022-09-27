@@ -12,9 +12,9 @@ I decided to create a personal homepage that housed my resume, contact informati
 
 This project was created as a requirement for the course CS5610 taught by John Alexis Guerra Gómez, you can find out more about the class and the professor please click [here](https://johnguerra.co).
 
-## Installation
+## Demo
 
-No installation required, simply click [here](https://eliokhouri.github.io/project1.github.io/) to visit the website.
+Click [here](https://eliokhouri.github.io/project1.github.io/) to visit the website.
 
 ## Overview
 
