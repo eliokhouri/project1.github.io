@@ -20,7 +20,6 @@ Click [here](https://eliokhouri.github.io/project1.github.io/) to visit the webs
 
 Click [here](https://docs.google.com/presentation/d/1naao1IqT9GLeJl7Grk8tIKsRYtliq4B3JarbXkmuDUU/edit#slide=id.p) to view a Google Slides summary of the project. 
 
-
 A short but in-depth video where the author speaks on the different features of the website.
 
 [![Project 1 Overview Video](https://raw.githubusercontent.com/eliokhouri/project1.github.io/main/images/youtube-thumbnail.jpeg)](https://www.youtube.com/watch?v=s7zJm0FRHsQ)
