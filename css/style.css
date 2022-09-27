@@ -6,6 +6,46 @@ body {
   padding: 0;
 }
 
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.caption-image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.centered-info {
+  margin-left: auto;
+  margin-right: auto;
+  color: #6f7378;
+  text-align: center;
+}
+
+figure {
+  border: thin #c0c0c0 solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  max-width: 1250px;
+  max-height: 1250px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: rgb(212, 212, 212);
+  color: rgb(0, 0, 0);
+  font: italic smaller sans-serif;
+  padding: 5px;
+  text-align: center;
+  max-width: 1250px;
+}
+
 .menu {
   position: fixed;
   height: 100vh;
@@ -49,10 +89,11 @@ nav h1 {
   color: #4c4e52;
   text-align: left;
 }
+
 nav h2 {
   font-size: 10px;
   color: #4c4e52;
-  text-align: center;
+  text-align: left;
 }
 
 nav ul {
@@ -64,6 +105,7 @@ nav ul {
 nav li {
   line-height: 2em;
   letter-spacing: 0.3em;
+  text-align: left;
 }
 
 nav a {
@@ -83,13 +125,15 @@ p {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 40px;
   color: #4c4e52;
+  text-align: center;
+  padding-bottom: 50px;
 }
 
 h2 {
-  font-size: 20px;
-  color: #6f7378;
+  font-size: 30px;
+  color: #4c4e52;
 }
 
 h3 {
@@ -98,9 +142,11 @@ h3 {
 }
 
 li {
+  max-width: 1250px;
   font-size: 15px;
   color: #6f7378;
   padding-right: 10vw;
+  padding-bottom: 10px;
 }
 
 /* Bar Graph Horizontal */
