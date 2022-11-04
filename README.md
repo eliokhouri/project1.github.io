@@ -1,9 +1,11 @@
 # project1.github.io
 
 ## Author
+
 Elio Khouri
 
 ## Objective
+
 My name is Elio Khouri and this is my first foray into front end web development...
 
 I decided to create a personal homepage that housed my resume, contact information, skills, education, hobbies and more, I tried to include anything that a potential recruiter would like to know about me.
@@ -18,13 +20,13 @@ Click [here](https://eliokhouri.github.io/project1.github.io/) to visit the webs
 
 ## Overview
 
-Click [here](https://docs.google.com/presentation/d/1naao1IqT9GLeJl7Grk8tIKsRYtliq4B3JarbXkmuDUU/edit#slide=id.p) to view a Google Slides summary of the project. 
+Click [here](https://docs.google.com/presentation/d/1naao1IqT9GLeJl7Grk8tIKsRYtliq4B3JarbXkmuDUU/edit#slide=id.p) to view a Google Slides summary of the project.
 
 A short but in-depth video where the author speaks on the different features of the website.
 
 [![Project 1 Overview Video](https://raw.githubusercontent.com/eliokhouri/project1.github.io/main/images/youtube-thumbnail.jpeg)](https://www.youtube.com/watch?v=s7zJm0FRHsQ)
 
-
+Finally click [here](https://github.com/eliokhouri/project1.github.io/blob/main/project1-design-doc.docx?raw=true) to view the design documentation of the project.
 
 ## Usage
 
@@ -44,15 +46,16 @@ Navigate to the the about me page, once there you can view more about my hobbies
 
 ![Project 1 gif](https://media.giphy.com/media/zwKQtuJaJoLkYtdCoX/giphy.gif)
 
-You are able to access Elio Khouri's contact information from the main menu pane, you can access this pane from both pages on the site. 
+You are able to access Elio Khouri's contact information from the main menu pane, you can access this pane from both pages on the site.
 
 ![Project 1 gif](https://media.giphy.com/media/uk5BR4hgvd7Ik82Ln8/giphy.gif)
 
-
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
