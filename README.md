@@ -24,7 +24,7 @@ Click [here](https://eliokhouri.github.io/project1.github.io/) to visit the webs
 
 2. A short but in-depth video where the author speaks on the different features of the website.
 
-[![Project 1 Overview Video](https://raw.githubusercontent.com/eliokhouri/project1.github.io/main/images/youtube-thumbnail.jpeg)](https://www.youtube.com/watch?v=s7zJm0FRHsQ)
+   [![Project 1 Overview Video](https://raw.githubusercontent.com/eliokhouri/project1.github.io/main/images/youtube-thumbnail.jpeg)](https://www.youtube.com/watch?v=s7zJm0FRHsQ)
 
 3. Finally click [here](https://github.com/eliokhouri/project1.github.io/blob/main/project1-design-doc.docx?raw=true) to view the design documentation of the project.
 
